@@ -51,13 +51,13 @@ export default function About() {
               Building Tomorrow's <span className="gradient-text-blue">Solutions</span>
             </h3>
             <p className="text-gray-400 text-lg leading-relaxed">
-              I'm a dedicated student with a passion for technology and design. My journey in the world of development has been driven by curiosity and a desire to create meaningful digital experiences.
+             I'm an Electrical Engineering student with a love for VLSI and embedded systems—basically and wireless technology, I like making tiny things do big things. My obsession with circuit design started when I realized blinking LEDs could be way cooler than blinking cursor lines. These days, I'm all about cramming logic into silicon and pretending I understand timing diagrams on the first try (spoiler: I don’t—but I figure it out). Chip design is my jam, and I’m here for the bugs, the breakthroughs, and everything in between.
             </p>
             <p className="text-gray-400 text-lg leading-relaxed">
               When I'm not coding, you'll find me exploring new design trends, contributing to open-source projects, or learning about the latest advancements in tech. I believe in the power of continuous learning and collaboration.
             </p>
             <div className="flex flex-wrap gap-3 pt-4">
-              {['React', 'TypeScript', 'Node.js', 'Python', 'UI/UX Design'].map((skill) => (
+              {[ 'C programming', 'Python', 'Gen ai','Digital electronics','computer organization and architecture'].map((skill) => (
                 <span
                   key={skill}
                   className="px-4 py-2 glass rounded-full text-sm font-medium hover:glass-strong transition-all duration-300 hover:scale-105"
