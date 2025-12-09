@@ -5,7 +5,7 @@ export default function Projects() {
     {
       title: 'AI Study Companion',
       description: 'An intelligent study assistant that helps students organize notes, create flashcards, and track learning progress with AI-powered insights.',
-      image: 'https://freeimage.host/i/fRCBjwX',
+      image: 'https://freeimage.host/i/fRCBjwX"><img src="https://iili.io/fRCBjwX.md.jpg" alt="fRCBjwX.md.jpg" border="0"',
       tags: ['React', 'AI/ML', 'Firebase'],
       github: '#',
       demo: '#',
