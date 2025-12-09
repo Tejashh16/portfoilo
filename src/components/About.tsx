@@ -41,7 +41,7 @@ export default function About() {
             <div className="glass-strong p-8 md:p-12 rounded-3xl hover-lift">
               <div className="w-full aspect-square rounded-2xl bg-gradient-to-br from-blue-500/20 via-purple-500/20 to-pink-500/20 flex items-center justify-center overflow-hidden relative">
                 <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.1),transparent_70%)]" />
-                <div className="text-9xl opacity-20 animate-float">👨‍💻</div>
+                <img src="https://iili.io/3Mt1s7j.jpg" alt="Tejash Kanagaraj" class="profile-img">
               </div>
             </div>
           </div>
