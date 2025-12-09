@@ -18,23 +18,7 @@ export default function Projects() {
       github: '#',
       demo: '#',
     },
-    {
-      title: 'Design System Hub',
-      description: 'A comprehensive design system library with reusable components, documentation, and interactive playground for rapid prototyping.',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['React', 'Tailwind', 'Storybook'],
-      github: '#',
-      demo: '#',
-    },
-    {
-      title: 'Campus Connect',
-      description: 'A social platform for students to connect, share resources, form study groups, and discover campus events in real-time.',
-      image: 'https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['React Native', 'Express', 'MongoDB'],
-      github: '#',
-      demo: '#',
-    },
-  ];
+
 
   return (
     <section id="projects" className="py-32 px-6 relative">
