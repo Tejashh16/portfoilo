@@ -16,7 +16,6 @@ export default function Footer() {
           <div className="text-center md:text-left">
             <div className="text-2xl font-bold gradient-text-blue mb-2">Tejash</div>
             <p className="text-gray-400 text-sm flex items-center gap-2 justify-center md:justify-start">
-              Made with <Heart size={14} className="text-red-500 fill-red-500 animate-pulse" /> by Tejash
             </p>
           </div>
 
