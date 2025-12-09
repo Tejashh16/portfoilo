@@ -37,7 +37,7 @@ export default function About() {
         </div>
 
         
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.1),transparent_70%)]" />
+                
                 <img src="https://iili.io/3Mt1s7j.jpg" alt="Tejash Kanagaraj" class="profile-img">
               </div>
             </div>
